@@ -5,5 +5,6 @@ A simple timer application.
 - Created repository and readme file.
 - Implemented main.java with main function.
 - Updated readme format.
+- Implemented Timer.java with timer class.
 
 
